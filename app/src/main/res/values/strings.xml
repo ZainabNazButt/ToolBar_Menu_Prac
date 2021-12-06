@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Makhārij al-Hurūf</string>
+    <string name="repositoryName">https://github.com/ZainabNazButt/BCSF18M039_TASK3.git</string>
+    <string name="Practice">Practice</string>
+    <string name="practise">Practise</string>
+    <string name="Halqiyah">Halqiyah</string>
+    <string name="Lahatiyah">Lahatiyah</string>
+    <string name="Tarfiyah">Tarfiyah</string>
+    <string name="Nit_Eeeyah">Nit_Eeeyah</string>
+    <string name="Shajariyah_H_aafiyah">Shajariyah_H_aafiya</string>
+    <string name="Lisaveyah">Lisaveyah</string>
+    <string name="Ghunna">Ghunna</string>
+</resources>
