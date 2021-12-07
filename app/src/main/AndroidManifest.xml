@@ -15,10 +15,12 @@
             android:exported="false" />
         <activity
             android:name=".Exam"
-            android:exported="false" />
+            android:exported="false"/>
+
         <activity
             android:name=".Practise"
-            android:exported="false" />
+            android:exported="false"/>
+
         <activity
             android:name=".Ghunna"
             android:exported="false" />
@@ -42,7 +44,8 @@
             android:exported="false" />
         <activity
             android:name=".MainActivity2"
-            android:exported="false" />
+            android:exported="false"
+            android:parentActivityName=".MainActivity"/>
         <activity
             android:name=".MainActivity"
             android:exported="true">
@@ -51,6 +54,7 @@
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+
         </activity>
     </application>
 
